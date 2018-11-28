@@ -1,0 +1,18 @@
+Challenge 1
+In Pre-work and Notes
+click Install this unmanaged package. 
+Click on Install Trailhead Apex Superbadge
+Select Install for All users 
+Click install(when you are installing it ask for the Salesforce login details enter it)
+click done.
+Check it wheather it is  installed in your play ground( setup- QuikFindbox-  installed Packages)
+
+Rename Standard objects
+Case - Maintenance Request (setup-QuickFinfbox-Rename Tabs and Labels-Edit Case Tab- Maintence Request ,Purallabel- Maintenance Request)
+Product- Equipment(setup-QuickFinfbox-Rename Tabs and Labels-Edit Product Tab-Equipment ,Purallabel- Equipments)
+
+ In Developer console 
+ write a trigger (named MaintenanceRequest) 
+ 
+ 
+
