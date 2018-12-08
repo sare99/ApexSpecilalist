@@ -15,7 +15,7 @@ List<Product2>listProduct = [select Id, Maintenance_Cycle__c from Product2];
 
 for (Product2 p :listProduct) {
 
-if (p != null) {
+if (p = null) {
 
 if(p.Maintenance_Cycle__c != null){
 
