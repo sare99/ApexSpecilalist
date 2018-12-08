@@ -17,6 +17,7 @@ for (Product2 p :listProduct) {
 
 if (p != null) {
 
+
 if(p.Maintenance_Cycle__c != null){
 
 mapProduct.put(p.Id, Integer.valueOf(p.Maintenance_Cycle__c));
